@@ -8,7 +8,7 @@ os dados. Eles foram obtidos através de um documento CSV disponibilizado pela e
 
 ### perguntas criadas pela empresa
 
-a empresa solicitou as seguintes informações quanto a última semana repondidas ja a seguir
+a empresa solicitou as seguintes informações quanto a última semana respondidas ja a seguir
 
 |perguntas|respostas|
 |:-:|:-:|
@@ -20,6 +20,7 @@ Total de Tarefas Concluídas|33
 Média Diária de Tarefas Concluídas|5.5
 bugs a serem resolvidos|19
 
+!['imagem](/imagem/imagem_1.png)
 
 
 ## Requisitos
