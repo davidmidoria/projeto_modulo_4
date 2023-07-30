@@ -29,7 +29,8 @@ A análise foi construída a partir de um notebook Jupyter. Para visualizar o pr
 ## Ferramentas
 Na construção deste arquivo, foi utilizado exclusivamente o Visual Studio Code (VSCode).
 
-Colaborador: David Williams Pyrrho de Lima
+## autor
+ David Williams Pyrrho de Lima
 
 ### Conclusão
 Esse projeto demandou um pouco mais de trabalho do que o esperado. Espero que todos fiquem satisfeitos com os resultados alcançados.
