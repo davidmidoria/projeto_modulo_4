@@ -1,3 +1,5 @@
+
+!['imagem](/imagem/skyblue.png)
 # Análise de Andamento Projeto Skyblue
 Foi solicitado pela empresa Skyblue a análise semanal do andamento de um projeto de construção de software, com o intuito de entender o desempenho e progresso da equipe. Para isso, foi criado um relatório que não se limitou apenas a interpretar os dados através de gráficos, mas também oferecer insights sobre possíveis soluções para eventuais problemas observados.
 
